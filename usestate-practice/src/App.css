@@ -1,0 +1,29 @@
+.container {
+  max-width: 400px;
+  margin: 5rem auto;
+  padding: 2rem;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+input {
+  width: 80%;
+  padding: 10px;
+  margin: 10px;
+  font-size: 1rem;
+}
+
+.tombol-opsi {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+button {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  cursor: pointer;
+}
